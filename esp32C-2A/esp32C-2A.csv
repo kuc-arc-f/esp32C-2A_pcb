@@ -1,0 +1,9 @@
+"Part";"Value";"Device";"Package";"Description";"";
+"C1";"0.1u";"C-EUC0603";"C0603";"CAPACITOR, European symbol";"";
+"JP1";"";"PINHD-1X11";"1X11";"PIN HEADER";"";
+"JP2";"";"PINHD-1X11";"1X11";"PIN HEADER";"";
+"R1";"10K";"R-EU_R0603";"R0603";"RESISTOR, European symbol";"";
+"R2";"10K";"R-EU_R0603";"R0603";"RESISTOR, European symbol";"";
+"S1";"";"BTN2-EX";"B3F-10XX";"";"";
+"S2";"";"BTN2-EX";"B3F-10XX";"";"";
+"SOC";"ESP-WROOM-32";"ESP-WROOM-32";"ESP-WROOM-32";"";"";
